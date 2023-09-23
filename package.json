@@ -1,0 +1,13 @@
+{
+  "name": "qavnakud",
+  "version": "0.0.1",
+  "description": "Visualize dots and lines",
+  "main": "index.ts",
+  "repository": "https://github.com/arielshaqed/qavnakud",
+  "author": "Ariel Shaqed (Scolnicov)",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@tsconfig/create-react-app": "^2.0.1"
+  }
+}
